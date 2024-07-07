@@ -1,4 +1,5 @@
-refresh_token = "AQAHOlFadHBMNpl9O14KdmB0yzwSnM1kPrVFLqeUs2WfMaU1OQl-Fak6EMg1u47t0CKst8IyK1LzDVt6i7esCbmPlObMPmhgs6533NBAh5Rpwwq8bPf9zzEEL-sX4iY7tow"
-base_64 = "YzJjMmI3Y2IwODI1NDFlNzg3ZmZjZWE3Nzc3MTIxOGY6ZWI3YzU2MjUzM2ZhNGNjMzhhZTk4NjhhZWQ2ODBhOWM="
-username = "s2yeok79frxqttp0hce5e1yzc"
-playlist_id = "0n4R9iBQWSpqd7ZRAHNAOL"
+# replace these variables
+refresh_token = "YOUR_REFRESH_TOKEN"
+base_64 = "YOUR_CLIENT_ID_IN_BASE_64"
+username = "USERNAME"
+playlist_id = "PLAYLIST_ID"
